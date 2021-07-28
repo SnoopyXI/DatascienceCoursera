@@ -1,0 +1,7 @@
+---
+title: "TestRmarkdown"
+author: "Xu Wei"
+date: "2021/7/28"
+output: pdf_document
+---
+##This is a markdown file
